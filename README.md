@@ -2,7 +2,7 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![Portfolio][linkedin-shield]][portfolio-url]
+[![Portfolio][Portfolio-shield]][portfolio-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
